@@ -1,0 +1,17 @@
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\SSG_Winforms.exe.config
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\SSG_Winforms.exe
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\SSG_Winforms.pdb
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.csprojAssemblyReference.cache
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.Form1.resources
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.Properties.Resources.resources
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.csproj.GenerateResource.cache
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.csproj.CoreCompileInputs.cache
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.exe
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.pdb
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\Newtonsoft.Json.dll
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\Newtonsoft.Json.xml
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\obj\Debug\SSG_Winforms.csproj.CopyComplete
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\RestSharp.dll
+C:\Users\scott\Documents\GitHub\SSG_Winforms\SSG_Winforms\SSG_Winforms\bin\Debug\RestSharp.xml
